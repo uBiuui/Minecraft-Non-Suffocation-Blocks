@@ -2,7 +2,7 @@
   "replace": true,
   "values": [
     "minecraft:air",
-    "#minecraft:amethyst_cluster",
+    "minecraft:amethyst_cluster",
     "#minecraft:anvil",
     "minecraft:bamboo",
     "minecraft:bamboo_sapling",
