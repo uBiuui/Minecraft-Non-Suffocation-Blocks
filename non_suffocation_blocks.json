@@ -47,6 +47,7 @@
     "minecraft:kelp",
     "minecraft:kelp_plant",
     "minecraft:lantern",
+    "minecraft:lava",
     "#minecraft:leaves",
     "minecraft:lectern",
     "minecraft:lever",
@@ -73,6 +74,7 @@
     "#minecraft:wall_signs",
     "minecraft:wall_torch",
     "#minecraft:walls",
+    "minecraft:water",
     "minecraft:zombie_head"
   ]
 }
