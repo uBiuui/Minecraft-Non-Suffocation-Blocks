@@ -17,7 +17,9 @@ Even though you can't technically suffocate in the following blocks, other behav
 - end_portal
 - fire
 - lava
+- lava_cauldron
 - nether_portal
+- powder_snow
 - soul_campfire
 - soul_fire
 - sweet_berry_bush
