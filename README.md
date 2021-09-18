@@ -19,6 +19,7 @@ Even though you can't technically suffocate in the following blocks, other behav
 - lava
 - lava_cauldron
 - nether_portal
+- pointed_dripstone
 - powder_snow
 - soul_campfire
 - soul_fire
