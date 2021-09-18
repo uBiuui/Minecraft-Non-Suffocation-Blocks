@@ -1,2 +1,5 @@
 # Minecraft-Non-Suffocation-Blocks
-Blocks living entities can't suffocate in, MC 1.17.
+List of blocks living entities can't suffocate in, MC 1.17.
+For use in datapacks as a block tag.
+Put it somewhere in this directory of your datapack:
+NAMESPACE/data/NAMESPACE/tags/
