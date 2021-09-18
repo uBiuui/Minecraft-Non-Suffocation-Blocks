@@ -8,3 +8,17 @@ Put it in this directory of your datapack:
 
 If you add to this list, please try just adding the individual blocks 
 instead of other block tags to improve compatibility with older versions (unless the block tag was present in 1.13).
+
+
+NOTE:
+Even though you can't technically suffocate in the following blocks, other behaviors may impact living entities: 
+- campfire
+- end_gateway
+- end_portal
+- fire
+- lava
+- nether_portal
+- soul_campfire
+- soul_fire
+- sweet_berry_bush
+- water
