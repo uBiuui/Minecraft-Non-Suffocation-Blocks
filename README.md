@@ -5,3 +5,6 @@ For use in datapacks as a block tag.
 
 Put it somewhere in this directory of your datapack:
 `NAMESPACE/data/NAMESPACE/tags/`
+
+If you add to this list, please try just adding the individual blocks 
+instead of other block tags to improve compatibility with older versions.
