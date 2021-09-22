@@ -1,17 +1,19 @@
 # Minecraft Non Suffocation Blocks
-List of blocks living entities can't suffocate in, MC 1.17.
+List of blocks living entities can't suffocate in, MC 1.13, 1.14, 1.15, 1.16, 1.17.
 
+## Usage
 For use in datapacks as a block tag.
 
-Put it in this directory of your datapack:
-`DATAPACK_NAME/data/NAMESPACE/tags/blocks/`
+Pick a "safe" or "normal" list for the version you desire, then put the choosen file in this directory of your datapack:
 
-If you add to this list, please try just adding the individual blocks 
-instead of other block tags to improve compatibility with older versions (unless the block tag was present in 1.13).
+`DATAPACK NAME/data/NAMESPACE/tags/blocks/`
 
+#### "Safe" vs "Normal":
 
-NOTE:
-Even though you can't technically suffocate in the following blocks, other behaviors may impact living entities: 
+Normal lists include all blocks that living entities can't suffocate in, regardless if the block affects living entities in other ways.
+
+Safe lists include all blocks that living entities can't suffocate in, minus any blocks that might affect living entities. Such "unsafe" blocks are included below:
+
 - campfire
 - end_gateway
 - end_portal
