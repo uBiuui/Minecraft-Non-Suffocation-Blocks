@@ -14,16 +14,16 @@ Normal lists include all blocks that living entities can't suffocate in, regardl
 
 Safe lists include all blocks that living entities can't suffocate in, minus any blocks that might affect living entities. Such "unsafe" blocks are included below:
 
-- campfire
-- end_gateway
-- end_portal
-- fire
-- lava
-- lava_cauldron
-- nether_portal
-- pointed_dripstone
-- powder_snow
-- soul_campfire
-- soul_fire
-- sweet_berry_bush
-- water
+- campfire (1.14+)
+- end_gateway (1.13+)
+- end_portal (1.13+)
+- fire (1.13+)
+- lava (1.13+)
+- lava_cauldron (1.17+)
+- nether_portal (1.13+)
+- pointed_dripstone (1.17+)
+- powder_snow (1.17+)
+- soul_campfire (1.16+)
+- soul_fire (1.16+)
+- sweet_berry_bush (1.14+)
+- water (1.13+)
