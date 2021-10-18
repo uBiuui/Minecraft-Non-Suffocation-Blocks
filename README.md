@@ -14,6 +14,7 @@ Normal lists include all blocks that living entities can't suffocate in, regardl
 
 Safe lists include all blocks that living entities can't suffocate in, minus any blocks that might affect living entities. Such "unsafe" blocks are included below:
 
+- conduit (1.13+) [Only unsafe in 1.13.0 due to being waterlogged]
 - campfire (1.14+)
 - end_gateway (1.13+)
 - end_portal (1.13+)
