@@ -1,4 +1,4 @@
-# Minecraft Non Suffocation Blocks
+# Minecraft Java Edition: Non Suffocation Blocks
 List of blocks living entities can't suffocate in, MC 1.13, 1.14, 1.15, 1.16, 1.17, 1.18.
 
 ## Usage
